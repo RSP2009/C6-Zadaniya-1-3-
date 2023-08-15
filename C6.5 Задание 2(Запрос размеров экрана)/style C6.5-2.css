@@ -1,0 +1,17 @@
+.btn {
+    padding: 0;
+    cursor: pointer;
+    display: flex;
+    padding: 20px 50px;
+    border-radius: 5px;
+    font-size: 22px;    
+    color: #FFFFE0;
+    background: #7FFF00;
+    transition: 2.5s;
+  }
+  
+
+  .btn_text {
+    margin-right: 20px;
+    margin-top: 4px;
+  }
